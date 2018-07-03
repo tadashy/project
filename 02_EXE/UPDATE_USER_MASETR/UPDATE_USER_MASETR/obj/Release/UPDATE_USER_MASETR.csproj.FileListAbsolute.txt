@@ -1,0 +1,11 @@
+C:\Users\tadashy\documents\visual studio 2015\Projects\UPDATE_USER_MASETR\UPDATE_USER_MASETR\bin\Release\UPDATE_USER_MASETR.exe.config
+C:\Users\tadashy\documents\visual studio 2015\Projects\UPDATE_USER_MASETR\UPDATE_USER_MASETR\bin\Release\UPDATE_USER_MASETR.exe
+C:\Users\tadashy\documents\visual studio 2015\Projects\UPDATE_USER_MASETR\UPDATE_USER_MASETR\bin\Release\UPDATE_USER_MASETR.pdb
+C:\Users\tadashy\documents\visual studio 2015\Projects\UPDATE_USER_MASETR\UPDATE_USER_MASETR\bin\Release\Oracle.DataAccess.dll
+C:\Users\tadashy\documents\visual studio 2015\Projects\UPDATE_USER_MASETR\UPDATE_USER_MASETR\obj\Release\UPDATE_USER_MASETR.csprojResolveAssemblyReference.cache
+C:\Users\tadashy\documents\visual studio 2015\Projects\UPDATE_USER_MASETR\UPDATE_USER_MASETR\obj\Release\UPDATE_USER_MASETR.Form1.resources
+C:\Users\tadashy\documents\visual studio 2015\Projects\UPDATE_USER_MASETR\UPDATE_USER_MASETR\obj\Release\UPDATE_USER_MASETR.Properties.Resources.resources
+C:\Users\tadashy\documents\visual studio 2015\Projects\UPDATE_USER_MASETR\UPDATE_USER_MASETR\obj\Release\UPDATE_USER_MASETR.UserMasterForm.resources
+C:\Users\tadashy\documents\visual studio 2015\Projects\UPDATE_USER_MASETR\UPDATE_USER_MASETR\obj\Release\UPDATE_USER_MASETR.csproj.GenerateResource.Cache
+C:\Users\tadashy\documents\visual studio 2015\Projects\UPDATE_USER_MASETR\UPDATE_USER_MASETR\obj\Release\UPDATE_USER_MASETR.exe
+C:\Users\tadashy\documents\visual studio 2015\Projects\UPDATE_USER_MASETR\UPDATE_USER_MASETR\obj\Release\UPDATE_USER_MASETR.pdb
